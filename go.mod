@@ -1,4 +1,4 @@
-module github.com/mnagaa/sandbox/stackerrors
+module github.com/mnagaa/stackerrors
 
 go 1.23.2
 
