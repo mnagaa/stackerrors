@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mnagaa/sandbox/stackerrors"
+	"github.com/mnagaa/stackerrors"
 	"github.com/stretchr/testify/assert"
 )
 
