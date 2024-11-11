@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-go get github.com/yourusername/stackerrors
+go get github.com/mnagaa/stackerrors
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ go get github.com/yourusername/stackerrors
 ### 1. Creating a Basic Error
 
 ```go
-import "github.com/yourusername/stackerrors"
+import "github.com/mnagaa/stackerrors"
 
 func main() {
     err := stackerrors.New("An error occurred")
